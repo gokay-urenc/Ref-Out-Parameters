@@ -1,0 +1,20 @@
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Method_Ref_OutParameter\Method_Ref_OutParameter\bin\Debug\Method_Ref_OutParameter.exe.config
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Method_Ref_OutParameter\Method_Ref_OutParameter\bin\Debug\Method_Ref_OutParameter.exe
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Method_Ref_OutParameter\Method_Ref_OutParameter\bin\Debug\Method_Ref_OutParameter.pdb
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Method_Ref_OutParameter\Method_Ref_OutParameter\obj\Debug\Method_Ref_OutParameter.csprojResolveAssemblyReference.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Method_Ref_OutParameter\Method_Ref_OutParameter\obj\Debug\Method_Ref_OutParameter.Form1.resources
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Method_Ref_OutParameter\Method_Ref_OutParameter\obj\Debug\Method_Ref_OutParameter.Properties.Resources.resources
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Method_Ref_OutParameter\Method_Ref_OutParameter\obj\Debug\Method_Ref_OutParameter.csproj.GenerateResource.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Method_Ref_OutParameter\Method_Ref_OutParameter\obj\Debug\Method_Ref_OutParameter.csproj.CoreCompileInputs.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Method_Ref_OutParameter\Method_Ref_OutParameter\obj\Debug\Method_Ref_OutParameter.exe
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Method_Ref_OutParameter\Method_Ref_OutParameter\obj\Debug\Method_Ref_OutParameter.pdb
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Method_Ref_OutParameter\Method_Ref_OutParameter\bin\Debug\Method_Ref_OutParameter.exe.config
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Method_Ref_OutParameter\Method_Ref_OutParameter\bin\Debug\Method_Ref_OutParameter.exe
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Method_Ref_OutParameter\Method_Ref_OutParameter\bin\Debug\Method_Ref_OutParameter.pdb
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Method_Ref_OutParameter\Method_Ref_OutParameter\obj\Debug\Method_Ref_OutParameter.csprojAssemblyReference.cache
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Method_Ref_OutParameter\Method_Ref_OutParameter\obj\Debug\Method_Ref_OutParameter.Form1.resources
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Method_Ref_OutParameter\Method_Ref_OutParameter\obj\Debug\Method_Ref_OutParameter.Properties.Resources.resources
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Method_Ref_OutParameter\Method_Ref_OutParameter\obj\Debug\Method_Ref_OutParameter.csproj.GenerateResource.cache
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Method_Ref_OutParameter\Method_Ref_OutParameter\obj\Debug\Method_Ref_OutParameter.csproj.CoreCompileInputs.cache
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Method_Ref_OutParameter\Method_Ref_OutParameter\obj\Debug\Method_Ref_OutParameter.exe
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Method_Ref_OutParameter\Method_Ref_OutParameter\obj\Debug\Method_Ref_OutParameter.pdb
